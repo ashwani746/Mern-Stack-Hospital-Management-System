@@ -23,6 +23,7 @@ I created a dynamic MERN Stack Hospital Management System from scratch using Mon
 ![](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/about1.png?raw=true)
 ![](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/about2.png?raw=true)
 ![](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/about%203.png?raw=true)
+## ADMIN DASHBOARD
 ## admin
 ![](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/admin1.png?raw=true)
 ![](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/admin2.png?raw=true)
