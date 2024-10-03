@@ -8,6 +8,9 @@ I created a dynamic MERN Stack Hospital Management System from scratch using Mon
 
 ## Project UI
 
-## Screenshots
-
+## Login
 ![LogIn URL](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/patientlogin.png?raw=true)
+
+![LogIn URL](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/hospitalpatient.png?raw=true)
+![](https://github.com/ashwani746/Mern-Stack-Hospital-Management-System/blob/master/h%201.png?raw=true)
+
